@@ -1,0 +1,22 @@
+1.
+Vào => https://colab.research.google.com/
+2.
+Thứ tự các bước
+=> Tệp>Tải sổ tay lên>Duyệt qua>Project_AI_DL_ML>Project_Dog_vs_Cat
+3.
+Sau khi tải xong
+=> Thanh bên colab., bên trái, vào phần thư mục> Tải tệp kaggle.json lên
+4.
+Tổ hợp phím Ctrl + F9 = Chạy tất cả
+Cuộn xuống cuối
+Phần Predictive System chạy
+=> Hiển thị : Path of the image to be predicted:
+5.
+Lên các trang công cụ tìm kiếm, tải ảnh chó và mèo về lưu tên file '.jpg'
+6. 
+Thanh bên colab, tải các tệp hình ảnh lên
+File hình ảnh vừa lưu>Theo ánh xạ click vào 3 dấu chấm
+=> Vào phần hiển thị: Path of the image to be predicted:Ctrl+V(Dán đường dẫn vừa sao chép)
+7.
+Hiển thị kết quả trả về hình ảnh là Dog hay Cat
+=> The image represents a:....
